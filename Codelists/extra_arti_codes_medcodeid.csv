@@ -1,0 +1,24 @@
+medterm,list_name,medcodeid,emiscodecatid,SnomedCTConceptId,cleansed_read_code,emiscat
+chesty cough,Cough/cold,252359015,27,161929000,1719.00,Symptoms and Findings
+chesty cough,Cough/cold,13768761000006116,27,28743005,NA,Symptoms and Findings
+cough,Cough/cold,82824016,27,49727002,171..00,Symptoms and Findings
+cough,Cough/cold,961781000006119,27,961781000006103,NA,Symptoms and Findings
+lrti - lower respiratory tract infection,LRTI,3316401000006114,32,50417007,NA,"Conditions, operations and procedures"
+lower respiratory infection caused by sars-cov-2 (severe acute respiratory syndrome coronavirus 2),LRTI,13486741000006114,32,880529761000119040,NA,"Conditions, operations and procedures"
+acute otitis media,Otitis media,1806411000006119,32,3110003,NA,"Conditions, operations and procedures"
+chronic otitis media,Otitis media,2836821000006119,32,21186006,NA,"Conditions, operations and procedures"
+chronic purulent otitis media,Otitis media,63478014,32,38394007,F513199,"Conditions, operations and procedures"
+chronic purulent otitis media,Otitis media,883741000006115,32,694131000000108,F523.99,"Conditions, operations and procedures"
+chronic purulent otitis media,Otitis media,63478014,32,38394007,F513199,"Conditions, operations and procedures"
+chronic purulent otitis media,Otitis media,883741000006115,32,694131000000108,F523.99,"Conditions, operations and procedures"
+chronic purulent otitis media,Otitis media,63478014,32,38394007,F513199,"Conditions, operations and procedures"
+chronic purulent otitis media,Otitis media,883741000006115,32,694131000000108,F523.99,"Conditions, operations and procedures"
+chronic otitis media with perforation,Otitis media,3118481000006112,32,38394007,NA,"Conditions, operations and procedures"
+viral sinusitis,Sinusitis,7298311000006115,32,444814009,NA,"Conditions, operations and procedures"
+chronic rhinosinusitis,Sinusitis,1229598015,32,40055000,H13..11,"Conditions, operations and procedures"
+chronic rhinosinusitis,Sinusitis,14149861000006118,32,897657000,NA,"Conditions, operations and procedures"
+chronic rhinosinusitis,Sinusitis,1229598015,32,40055000,H13..11,"Conditions, operations and procedures"
+chronic rhinosinusitis,Sinusitis,14149861000006118,32,897657000,NA,"Conditions, operations and procedures"
+acute tonsilitis/pharyngitis,Sore throat,855671000006111,32,855671000006107,NA,"Conditions, operations and procedures"
+urti - viral upper respiratory tract infection,urti,5655871000006119,32,281794004,NA,"Conditions, operations and procedures"
+viral upper respiratory tract infection,urti,350040017,32,281794004,H05z.12,"Conditions, operations and procedures"
